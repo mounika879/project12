@@ -4,7 +4,7 @@ package project12;
  * Hello world!
  *
  */
-public class App.java
+public class App
 {
     public static void main( String[] args )
     {
